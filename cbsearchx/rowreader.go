@@ -1,0 +1,3 @@
+package cbsearchx
+
+type SearchRowReader
